@@ -1,0 +1,1 @@
+export default API = 'http://192.168.164.93:8000/api'
